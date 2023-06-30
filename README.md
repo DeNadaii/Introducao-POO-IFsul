@@ -1,5 +1,5 @@
 # Introducao-POO-IFsul
-Course provided by IFSul. A intro to POO (object oriented programming)
+40 hours Course provided by IFSul. A intro to POO (object oriented programming)
 
 ## Links
 Link of the course: [Course](https://mundi.ifsul.edu.br/portal/introducao-a-programacao-orientada-a-objetos.php)
