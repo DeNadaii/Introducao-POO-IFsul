@@ -4,4 +4,4 @@
 ## Links
 Link of the course: [Course](https://mundi.ifsul.edu.br/portal/introducao-a-programacao-orientada-a-objetos.php)
 
-Certificate: [Certificate](https://github.com/DeNadaii/Introducao-POO-IFsul/blob/master/PDFs/Certificado.pdf)
+Certification: [Certificate](https://github.com/DeNadaii/Introducao-POO-IFsul/blob/master/PDFs/Certificado.pdf)
