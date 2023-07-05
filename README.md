@@ -21,8 +21,8 @@ Link to certificate PDF: [Certificate](https://github.com/DeNadaii/Introducao-PO
 
 Each lesson folder contains the materials and notes for that specific lesson. The files are organized as follows:
 
-- `lesson_archive.java`: JAVA script with code examples from Lesson 1.
-- `lesson_notes.pdf`: Markdown file containing my personal notes from Lesson 1.
+- `lesson_archive.java`: JAVA script with code examples from Lesson.
+- `lesson_notes.pdf`: Markdown file containing my personal notes from Lesson.
 
 Feel free to explore the folders and files to track my progress throughout the course.
 
