@@ -28,5 +28,5 @@ Feel free to explore the folders and files to track my progress throughout the c
 
 ## About the Course
 
-The ***A intro to oriented object programming*** course is an online course offered by [IFES](http://www.ifsul.edu.br/). It covers fundamental oriented object programming concepts using the JAVA programming language.
+The ***A intro to oriented object programming*** course is an online course offered by [IFSul](http://www.ifsul.edu.br/). It covers fundamental oriented object programming concepts using the JAVA programming language.
 
